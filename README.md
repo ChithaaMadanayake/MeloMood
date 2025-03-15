@@ -1,4 +1,4 @@
-Melomood
+#Melomood
 Melomood is a mood-based music recommendation app that suggests personalized playlists based on your emotional state. It combines technology with music to create a tailored listening experience that helps improve emotional well-being through music.
 
 Features
